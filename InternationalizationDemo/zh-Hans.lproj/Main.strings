@@ -1,0 +1,11 @@
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "F6H-FP-dBm"; */
+"F6H-FP-dBm.normalTitle" = "按钮";
+
+/* Class = "IBUILabel"; text = "title"; ObjectID = "Fss-fq-3vr"; */
+"Fss-fq-3vr.text" = "标题";
+
+/* Class = "IBUILabel"; text = "name"; ObjectID = "XnW-hE-M3V"; */
+"XnW-hE-M3V.text" = "名字";
+
+"PBc-TW-7pe.placeholder" = "搜索";
